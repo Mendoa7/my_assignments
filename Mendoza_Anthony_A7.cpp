@@ -1,5 +1,6 @@
 //Anthony Mendoza
-//CS 135 1004
+//Computer Science I
+//1004
 //Assignment #7
 #include <iostream>
 #include <iomanip>
